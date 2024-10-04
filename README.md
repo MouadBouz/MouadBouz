@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MouadBouz aka Ryu aka Mouad Bouzidi 
+- 👋 Hi, I’m @MouadBouz 
 - 👀 I’m interested in Programming , artificial intelligence , machine learning , ethical hacking .
-- 🌱 I’m currently learning Pyton and ethical hacking .
+- 🌱 I’m currently learning Python and ethical hacking .
 - 💞️ I’m looking to collaborate on a programming project
-- 📫 How to reach me ... @_ryuu01 on instagram
+
 
 
 <!---
